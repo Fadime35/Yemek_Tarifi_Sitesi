@@ -5,7 +5,7 @@ ekledikleri yemek tarifleriyle de etkileşim içinde bulunmuş oluyor.
 ## Teknolojiler
 - Python
 - SQL
-- Visiual Studio Code
+- Visual Studio Code
 - Streamlit
 - Mysql
 
