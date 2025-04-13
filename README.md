@@ -1,18 +1,24 @@
-# Yemek_Tarifi_Sitesi
-Projem yemek tarifi önerisinde bulunan bir web site. Kullanıcıya göre özelleştirildi.Kullanıcılar yemek tarifleri üzerinde  ekle/sil/güncelle gibi işlemleri yapabiliyor.Ayrıca kullanıcıar birbirlerinin 
-ekledikleri yemek tarifleriyle de etkileşim içinde bulunmuş oluyor.
 
-## Teknolojiler
-- Python
-- SQL
-- Visual Studio Code
-- Streamlit
-- Mysql
+#Yemek Tarifi Web Uygulaması
+Bu proje, kullanıcıların yemek tariflerini ekleyip, güncelleyip ve silip, diğer kullanıcılar ile etkileşimde bulunabilecekleri bir web uygulamasıdır. Uygulama, kullanıcıların yemek tariflerini paylaşmalarına, birbirlerinin tariflerini değerlendirmelerine ve yorumlamalarına olanak tanır. Kullanıcılar ayrıca, başkalarının tariflerini kaydedebilir ve favorilerine ekleyebilir.
 
-##Katkı
--Kullancılar için başkalarının yemek tariflerini kaydetme özelliği olabilir.
--Kullanıcılar arasında yemek tariflerini değerlendirme ,yorumlama ,mesajlaşma gibi özellikler olabilir.
-  
+##Proje Özellikleri:
+Kullanıcılar yemek tarifleri ekleyebilir, güncelleyebilir ve silebilir.
 
+Kullanıcılar, başkalarının yemek tariflerini değerlendirebilir ve yorumlayabilir.
 
+Kullanıcılar, başkalarının yemek tariflerini kaydedebilir ve favorilerine ekleyebilir.
+
+Kullanıcılar birbirlerinin tariflerine mesaj gönderebilir ve etkileşimde bulunabilir.
+
+##Teknolojiler:
+Python: Backend geliştirme için.
+
+Streamlit: Web arayüzü geliştirmek için kullanılan Python framework'ü.
+
+MySQL: Veritabanı yönetimi ve kullanıcı verileri, yemek tarifleri verileri gibi bilgileri saklamak için.
+
+SQL: Veritabanı sorguları ve veri yönetimi için.
+
+Visual Studio Code: Proje geliştirme ve kod yazma için kullanılan IDE.
 
